@@ -4,7 +4,7 @@ The model can be used to classify more types of plants, simply add more labeled 
 I used [Siraj Raval's TensorFlow tutorials](https://www.youtube.com/watch?v=QfNvhPx5Px8) to develop this. 
 Another useful resource for working with TensorFlow's Inception V3 Model is [CodeLab](https://codelabs.developers.google.com/codelabs/tensorflow-for-poets/?utm_campaign=chrome_series_machinelearning_063016&utm_source=gdev&utm_medium=yt-desc#0).
 
-![el](PlantClassifier/plant_photos/tomato/images (1).jpg)
-![el](PlantClassifier/plant_photos/potato/2Q== (4).jpg)
+![](PlantClassifier/plant_photos/tomato/images (1).jpg)
+![](PlantClassifier/plant_photos/potato/2Q== (4).jpg)
 
 # Requirements
