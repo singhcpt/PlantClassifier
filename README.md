@@ -19,5 +19,11 @@ Another useful resource for working with TensorFlow's Inception V3 Model is [Cod
   
 ## Results
 
+### Training Accuracy
+![accuracy](accuracies/test_accuracy.png)
+## Test Potato Image
+![accuracy](accuracies/potato_test.png)
+## Test Tomato Image
+![accuracy](accuracies/tomato_test.png)
 
 
