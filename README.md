@@ -12,3 +12,9 @@ Another useful resource for working with TensorFlow's Inception V3 Model is [Cod
 * [TensorFlow Installation](https://www.tensorflow.org/install/)
 * [TensorFlow models](https://github.com/tensorflow/tensorflow)
 
+# Usage
+
+1. Run the classifyPlant script to output the label of the image. `python classifyPlant.py /path/to/file`
+
+
+
