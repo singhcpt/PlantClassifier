@@ -7,14 +7,17 @@ Another useful resource for working with TensorFlow's Inception V3 Model is [Cod
 ![el](plant_photos/tomato/2Q==.jpg)
 ![el](plant_photos/potato/images.jpg)
 
-# Requirements
+## Requirements
 
 * [TensorFlow Installation](https://www.tensorflow.org/install/)
 * [TensorFlow models](https://github.com/tensorflow/tensorflow)
 
-# Usage
+## Usage
 
-1. Run the classifyPlant script to output the label of the image. `python classifyPlant.py /path/to/file`
+1. Run the classifyPlant script to output the label of the image. 
+   `python classifyPlant.py /path/to/file`
+  
+## Results
 
 
 
