@@ -8,3 +8,7 @@ Another useful resource for working with TensorFlow's Inception V3 Model is [Cod
 ![el](plant_photos/potato/images.jpg)
 
 # Requirements
+
+* [TensorFlow Installation](https://www.tensorflow.org/install/)
+* [TensorFlow models](https://github.com/tensorflow/tensorflow)
+
